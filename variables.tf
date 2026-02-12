@@ -10,7 +10,7 @@ variable "region" {
 
 variable "prefix" {
   type        = string
-  description = "(Optional) Prefix to use for all resources in this module Nice. Default: globo-dev"
+  description = "(Optional) Prefix to use for all resources in this module Nice Done. Default: globo-dev"
   default     = "globo-dev"
 }
 
